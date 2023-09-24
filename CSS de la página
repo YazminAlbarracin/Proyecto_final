@@ -1,0 +1,19 @@
+<!Doctype css>
+/* Estilo para el encabezado */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;}
+
+
+/* Estilo para la lista de navegación */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
